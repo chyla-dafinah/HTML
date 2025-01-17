@@ -3,30 +3,29 @@
 body {
   font-family: 'Fredoka', sans-serif;
   text-align: center;
-  background-image: url(Assets/bg1.jpg);
-  background-size: 100%;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 5rem;
+  text-shadow: 2px 2px 4px;
 }
 
 table {
     margin: auto;
     border-collapse: collapse;
-    width: 80%; 
+    width: 50%; 
   }
 
-  th {
+  th, td {
     border: 1px solid black;
     text-align: center; 
     padding: 5px;
   }
 
   th {
-    background-color: #ffffff;
+    background-color: #ff6f6f;
   }
 
-  tr{
-    height: 50px;
+  div {
+    color: white;
   }
